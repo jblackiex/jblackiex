@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://badge42.vercel.app/api/v2/clgs8vjzo001608mu9brz5lw6/stats?cursusId=21&coalitionId=285" />
+</p>
+
+<!--
+  [![nbordoni's 42 stats](https://badge42.vercel.app/api/v2/clgs8vjzo001608mu9brz5lw6/stats?cursusId=21&coalitionId=285)]
+
 ### Hi there 👋
 
 <!--
