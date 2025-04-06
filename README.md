@@ -28,8 +28,8 @@ This hack turns a standard guitar pedal into a **programmable smart controller**
 ✅ Live performance ready!
 
 🎯 *Goal:* Expand a closed pedal system into an open, modular platform — all using Python, relays, a breadboard, and pure experimentation.
+📦 Check out the [circuit diagram](https://lucid.app/lucidchart/801ec904-747f-40c8-86a8-fbb14ffee57e/view?invitationId=inv_92bd5a81-6f77-4953-a02e-ab45b900d2ef&page=0_0#), build steps, and code in this repo --> [DNAfx_Hack](https://github.com/jblackiex/DNAfx_Hack)
 
-📦 Check out the [circuit diagram](https://github.com/jblackiex/DNAfx_Hack), build steps, and code in this repo!  
 🛠️ *Built entirely from scratch – my first ever hardware project!*
 
 ---
