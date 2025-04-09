@@ -38,7 +38,8 @@ This hack turns a standard guitar pedal into a **programmable smart controller**
 🌍 Open Source
 
 This project is fully **open source**, meant to inspire experimentation and customization.  
-Feel free to fork it, remix it, or suggest improvements
+Feel free to fork it, remix it, or suggest improvements.
+
 Whether you're a firmware engineer, guitarist, or just into embedded systems — reach out!  
 I'm always learning and looking to grow.
 
