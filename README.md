@@ -18,7 +18,7 @@
 > 🧠 No professional background — just passion, curiosity, and lots of trial & error.
 
 Welcome to my **DIY mod project** for the DNAfx GiT multi-effects pedal!  
-This hack turns a standard guitar pedal into a **programmable smart controller** with:
+This hack turns a standard guitar pedal into a **programmable smart device** with:
 
 ✅ Looper track import UNLOCKED!  
 ✅ Remote control via server-side Raspberry Pi and client-side Android App!   
