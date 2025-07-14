@@ -12,7 +12,7 @@
   </a>
 </p>
 
-# 🎛️ DNAfx Pedal Mod - Turn Your Pedal into a Smart Looper & Tuner Controller 🎸🤖
+# 🎛️ DNAfx Pedal Mod - Turn Your Pedal into a Smart Looper & Tuner Controller 🎸
 
 > 🚨 First real-world hardware hack from a software dev stepping into electronics.  
 > 🧠 No professional background — just passion, curiosity, and lots of trial & error.
