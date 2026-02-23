@@ -58,9 +58,7 @@ Android App
 ->
 Raspberry Pi (Python service)
 ->
-GPIO / USB HID
-||
-Relay switching layer
+( GPIO -> Relay switching layer ) || USB HID
 ->
 DNAfx GiT pedal
 
